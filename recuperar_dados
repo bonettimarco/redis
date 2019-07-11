@@ -1,0 +1,16 @@
+APPEND key value
+EXISTS key
+FLUSHALL
+TYPE key
+GET key
+GETRANGE key start end (0 -1 p. ex)
+HDEL key field
+HEXISTS key field
+HGET key field
+HGETALL key
+HKEYS key
+MEMORY STATS
+MGET key
+PING
+
+
